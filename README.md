@@ -1,5 +1,5 @@
 # CLOUDWATCH-AGENT-ON-LINUX-TO-ACCESS-LOGS-OF-nginx-WEB-SERVER-
-https://claude.ai/public/artifacts/9ae90c6f-48cd-4887-ae9a-5b4bae3940c8
+https://claude.ai/public/artifacts/6b6916d1-19fa-481e-b4d6-673e439d4b0e
 
 🚀 Successfully Implemented CloudWatch Agent for Real-Time Log Monitoring on AWS EC2
 Just completed a comprehensive CloudWatch integration project that demonstrates hands-on expertise in AWS monitoring and infrastructure management. Here's what I accomplished:
